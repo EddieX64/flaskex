@@ -31,6 +31,8 @@ cd Flaskex
 pip install -r requirements.txt
 python app.py
 ```
+  
+ TEST
 
 ## Contributing
 Please take a look at our [contributing](https://github.com/anfederico/Flaskex/blob/master/CONTRIBUTING.md) guidelines if you're interested in helping!
