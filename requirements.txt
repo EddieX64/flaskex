@@ -1,6 +1,6 @@
 Flask
 WTForms==1.0.1
-SQLAlchemy
+SQLAlchemy==1.3.0
 bcrypt
 requests
 flask-heroku
